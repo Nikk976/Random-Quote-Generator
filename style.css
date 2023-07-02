@@ -1,0 +1,26 @@
+body{
+    background-color: #9898e6;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.quoteBox{
+    box-sizing: border-box;
+    margin-top: 50px;
+    text-align: center;
+    background-color: white;
+    width: 450px;
+    padding:12px;
+    border-radius: 8px;
+}
+#change{
+    background-color: blue;
+    padding:8px;
+    border-radius: 8px;
+    border: none;
+}
+.containerbox{
+   display: flex;
+   justify-content: center;
+}
